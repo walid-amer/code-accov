@@ -1,47 +1,91 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+*.class
 
-# Folder config file
-Desktop.ini
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Package Files #
+*.jar
+*.war
+*.ear
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+private/
 
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/Props/props/nbproject/private/
+/Props/props/build/
+/Props/props/dist/
+/Lambdas/Persons/nbproject/private/
+/Lambdas/Persons/build/
+/Lambdas/Aproche1/nbproject/private/
+/Lambdas/Aproche1/build/
+/Lambdas/Aproche2/nbproject/private/
+/Lambdas/Aproche3_ClasseInterfacecTest/nbproject/private/
+/Lambdas/Aproche2/build/
+/Lambdas/Aproche3_ClasseInterfacecTest/build/
+/Lambdas/Aproche4_AnonInterfacece/nbproject/private/
+/Lambdas/Persons/dist/
+/Lambdas/Aproche3_ClasseInterfacecTest/dist/
+/Lambdas/Aproche4_AnonInterfacece/build/
+/Lambdas/Aproche5_LambdaExp/nbproject/private/
+/Lambdas/Aproche5_LambdaExp/build/
+/Lambdas/Aproche6_LambdaExp_Predicat/nbproject/private/
+/Lambdas/Aproche7_LambdaExp_Predicat_Cosumer/nbproject/private/
+/Lambdas/Aproche8_LambdaExp_Predicat_Cosumer_Functions/nbproject/private/
+/Lambdas/Aproche8_LambdaExp_Predicat_Cosumer_Functions/build/
+/Lambdas/Aproche6_LambdaExp_Predicat_/nbproject/private/
+/Lambdas/Aproche7_LambdaExp_Predicat_Consumer/nbproject/private/
+/Lambdas/Aproche9_AllGeneric/nbproject/private/
+/Lambdas/Aproche10_GlobalOparations/nbproject/private/
+/Lambdas/Aproche01/nbproject/private/
+/Lambdas/Aproche02/nbproject/private/
+/Lambdas/Aproche03_ClasseInterfacecTest/nbproject/private/
+/Lambdas/Aproche04_AnonInterfacece/nbproject/private/
+/Lambdas/Aproche05_LambdaExp/nbproject/private/
+/Lambdas/Aproche06_LambdaExp_Predicat_/nbproject/private/
+/Lambdas/Aproche07_LambdaExp_Predicat_Consumer/nbproject/private/
+/Lambdas/Aproche08_LambdaExp_Predicat_Cosumer_Functions/nbproject/private/
+/Lambdas/Aproche9_AllGeneric/build/
+/Lambdas/Aproche10_GlobalOparations/build/
+/Lambdas/Aproche01/build/
+/Lambdas/Aproche02/build/
+/Lambdas/Aproche03_ClasseInterfacecTest/build/
+/Lambdas/Aproche04_AnonInterfacece/build/
+/Lambdas/Aproche07_LambdaExp_Predicat_Consumer/build/
+/Lambdas/Aproche08_LambdaExp_Predicat_Cosumer_Functions/build/
+/PipeStream/pipeEtStream/build/
+/PipeStream/pipeEtStream/nbproject/private/
+/PipeStream/pipeEtStream/dist/
+/Persons/nbproject/private/
+/Persons/build/
+/PipeStream/Parallel/nbproject/private/
+/PipeStream/Parallel/build/
+/testWS/nbproject/private/
+/testWS/build/
+/testWS/dist/
+/clientWS/nbproject/private/
+/JavaApplication5/nbproject/private/
+/JavaApplication5/build/
+/testREST/nbproject/private/
+/testREST/build/
+/ACCOV/ExempleEtFormat/nbproject/private/
+/ACCOV/ExempleEtFormat/build/
+/ACCOV/runls/nbproject/private/
+/ACCOV/runls/build/
+/ACCOV/HelloWorld/nbproject/private/
+/ACCOV/HelloWorld/build/
+/ACCOV/HelloWorld/dist/
+/ACCOV/runAny/nbproject/private/
+/ACCOV/runAny/build/
+/ACCOV/runAny/dist/
+/ACCOV/Synchronize/nbproject/private/
+/ACCOV/Synchronize/build/
+/ACCOV/Synchronize/dist/
+/ACCOV/cubyHole/nbproject/private/
+/ACCOV/cubyHole/build/
+/ACCOV/runls/dist/
+/ACCOV/ExempleEtFormat/dist/
+/Lambdas/Aproche05_LambdaExp/build/
+/ACCOV/SynchroAvancee/DeadLock/nbproject/private/
+/ACCOV/SynchroAvancee/DeadLock/build/
+/ACCOV/SynchroAvancee/DeadLock/dist/
